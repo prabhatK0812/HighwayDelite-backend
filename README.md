@@ -22,7 +22,7 @@ Built using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure :
 
 backend/
 ├── src/
