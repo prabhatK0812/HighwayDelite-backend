@@ -8,7 +8,7 @@ Built using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack :
 
 | Category | Technology |
 |-----------|-------------|
