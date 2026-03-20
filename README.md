@@ -59,7 +59,7 @@ Copy code
 
 ---
 
-## 🔑 Environment Variables
+## 🔑 Environment Variables :
 
 Create a `.env` file in the backend root:
 
