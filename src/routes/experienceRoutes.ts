@@ -4,6 +4,6 @@ import { getExperiences, createExperience } from "../controllers/experienceContr
 const router = express.Router();
 
 router.get("/", getExperiences);
-router.post("/", createExperience);
+// router.post("/", createExperience);
 
 export default router;
