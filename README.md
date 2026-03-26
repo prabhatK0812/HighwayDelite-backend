@@ -1,4 +1,4 @@
-# 🛣️ HighwayDelite — Backend
+# 🛣️ HighwayDelite — Backend :
 
 ### 🚀 RESTful API for Highway Experience Booking Platform
 
@@ -8,7 +8,7 @@ Built using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack :
 
 | Category | Technology |
 |-----------|-------------|
@@ -22,7 +22,7 @@ Built using **Node.js**, **Express.js**, **TypeScript**, and **MongoDB**.
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure :
 
 backend/
 ├── src/
@@ -59,7 +59,7 @@ Copy code
 
 ---
 
-## 🔑 Environment Variables
+## 🔑 Environment Variables :
 
 Create a `.env` file in the backend root:
 
