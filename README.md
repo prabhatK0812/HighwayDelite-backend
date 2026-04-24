@@ -73,7 +73,7 @@ Copy code
 
 ---
 
-## ⚡ Installation & Setup
+## ⚡ Installation & Setup :
 
 Clone and install dependencies:
 ```bash
