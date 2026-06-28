@@ -47,7 +47,7 @@ Copy code
 
 ---
 
-## 🧠 Features ::
+## 🧠 Features :
 
 ✅ TypeScript-powered Express API  
 ✅ MongoDB integration with Mongoose  
